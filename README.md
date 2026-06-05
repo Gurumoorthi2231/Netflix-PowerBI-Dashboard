@@ -24,3 +24,8 @@ This Power BI dashboard analyzes Netflix Movies and TV Shows data.
 
 ## Author
 GuruMoorthi B
+
+## Dashboard Preview
+
+![Netflix Dashboard](<img width="1365" height="767" alt="Screenshot 2026-06-05 135328" src="https://github.com/user-attachments/assets/94841c89-bac2-4b31-96b6-325ff0891909" />
+)
